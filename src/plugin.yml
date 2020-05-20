@@ -1,0 +1,10 @@
+name: HypixelFriendsReal
+description: None.
+author: Orion.
+website: orion.fun
+main: me.orion.HypixelFriends
+version: 0.1
+commands:
+  friend:
+    aliases: [friends, f]
+    description: No.
