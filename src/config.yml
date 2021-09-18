@@ -127,5 +127,5 @@ messages:
   - "&9&l-------------------------------------------"
   - "&cYou're already friends with this person!"
   - "&9&l-------------------------------------------"
-  join: "&e%0% joined."
-  quit: "&e%0% left."
+  join: "&a%0% > joined."
+  quit: "&a%0% > left."
